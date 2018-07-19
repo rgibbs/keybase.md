@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am rgibbs on github.
+  * I am menwithouthats (https://keybase.io/menwithouthats) on keybase.
+  * I have a public key ASAO1ymMbcWH0iMpMT5uSPnfGaZnaBImynYL2N4QyPcaGAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200ed7298c6dc587d22329313e6e48f9df19a667681226ca760bd8de10c8f71a180a",
+      "host": "keybase.io",
+      "kid": "01200ed7298c6dc587d22329313e6e48f9df19a667681226ca760bd8de10c8f71a180a",
+      "uid": "d1366bf353de04c6088515b9331ac919",
+      "username": "menwithouthats"
+    },
+    "merkle_root": {
+      "ctime": 1532019065,
+      "hash": "be5450e20ed8d5342c5439accbfbfbf0d45e0effcad8eb137c6df7ae710d26c4939f7f727f6fc541dd1b2855615b163542052c5c9706beee3f0ab5548c42786f",
+      "hash_meta": "6d0c74ee4f509f5c94bb30286ab16fd73ff174fdb0dca611f0bda1220c945307",
+      "seqno": 3291883
+    },
+    "service": {
+      "entropy": "ZegXgg1eatG7DR4OBHuHUC79",
+      "name": "github",
+      "username": "rgibbs"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1532019096,
+  "expire_in": 504576000,
+  "prev": "f85e38f24f734cbc0de1fa413a34de2cb818423fa577411dcba8ed6cd79cbdbb",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASAO1ymMbcWH0iMpMT5uSPnfGaZnaBImynYL2N4QyPcaGAo](https://keybase.io/menwithouthats), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDtcpjG3Fh9IjKTE+bkj53xmmZ2gSJsp2C9jeEMj3GhgKp3BheWxvYWTESpcCBsQg+F448k9zTLwN4fpBOjTeLLgYQj+ld0Edy6jtbNecvbvEIBHSK0Q25Tmu/BPhlTsTqXmWzoYLUaAiWi6mBBofaOGgAgHCo3NpZ8RAXkJtemqHb1/mIYI1BWbbAvzfIOWW4MA0+huPdG34p51FW6H2wIxE3R5FSRtqzKfEmlOZWCm/bgImx7JgafSHAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDXkO54pQIkxNFOa5kAtmvcl2ICoVnqIo3sooBm3CypLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/menwithouthats
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id menwithouthats
+```
